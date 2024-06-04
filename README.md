@@ -1,3 +1,5 @@
+![Tests Badge](https://github.com/sgapnayr/cicd/actions/workflows/ci.yml/badge.svg)
+
 # learn-cicd-starter (Notely)
 
 This is a test
